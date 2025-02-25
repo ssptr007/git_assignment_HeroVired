@@ -13,7 +13,7 @@ class Calculator:
 
     def divide(self, a, b):
         if b==0:
-            print("Cannot divide by zero.")
+            raise ValueError("Cannot divide by zero.")
             exit(0)
         return a / b
 
