@@ -32,5 +32,17 @@ Step 5: Commit and Push the .gitattributes and large file
 
 -----------------------
 Step 6: Clone the repo in different system and check the both size
+#git clone git@github.com:ssptr007/git_assignment_HeroVired.git
+#cd git_assignment_HeroVired/
+#git checkout lfs
+#ls -lrt
+![image](https://github.com/user-attachments/assets/3c4bab3a-eb3f-45d1-87b0-92d1687532a5)
+
+![image](https://github.com/user-attachments/assets/040f4e22-6ad8-4c17-9339-1475ff4dd302)
+
+
+![image](https://github.com/user-attachments/assets/eab1da66-70a5-4c95-a17a-e7bd76cbdf74)
+
+
 
 
