@@ -108,10 +108,10 @@ Step 6: Clone the repo in different system and check the both size
 ![image](https://github.com/user-attachments/assets/eab1da66-70a5-4c95-a17a-e7bd76cbdf74)
 
 
-Q.3: In this same GitHub repository, create a new branch ‘geometry-calculator’, we'll work on a simple Python program that calculates the area of a circle and the area of a rectangle. We'll use Git stash to switch between working on multiple features (calculating circle area and calculating rectangle area) without committing incomplete changes.
+Q.3: In this same GitHub repository, create a new branch **geometry-calculator**, we'll work on a simple Python program that calculates the area of a circle and the area of a rectangle. We'll use Git stash to switch between working on multiple features (calculating circle area and calculating rectangle area) without committing incomplete changes.
 
 -----------------------
-Step 1: Create a branch 'geometry-calculator' and add the file and stash it.
+Step 1: Create a branch **geometry-calculator** and add the file and stash it.
 
 #git checkout -b geometry-calculator
 
@@ -122,17 +122,50 @@ Step 1: Create a branch 'geometry-calculator' and add the file and stash it.
 ![image](https://github.com/user-attachments/assets/ad3cd286-d18b-4800-93d6-d1873aea66ef)
 
 -----------------------
-Step 2: Create branch 'feature/circle-area' and add the circle related code and stash it.
+Step 2: Create branch **feature/circle-area** and add the circle related code and stash it.
+
+#git checkout -b feature/circle-area
+
+#git add geometrycalculator.py
+
+#git stash
+
 ![image](https://github.com/user-attachments/assets/6dd542be-6299-475c-9b4b-4715b0a9d095)
 
 -----------------------
-Step 3: Create branch 'feature/rectangle-area' and add the circle related code.
+Step 3: Create branch **feature/rectangle-area** and add the circle related code.
+
+#git checkout -b feature/circle-area
+
+#git add geometrycalculator.py
+
+#git stash
+
 ![image](https://github.com/user-attachments/assets/dc1c1c45-0545-45ba-949b-1b34862cf1a3)
 
 -----------------------
-Step 4: Switch back to 
+Step 4: Switch back to **feature/circle-area** branch and continue working on the circle area feature
 
+#git checkout feature/circle-area
 
+#git stash list
+#git stash apply stash@{1}
+#git add geometrycalculator.py
+#git commit -m "Added the Circle feature"
+#git push origin feature/circle-area
+
+![image](https://github.com/user-attachments/assets/f0198808-3ec3-4129-b305-ccd10ac0056b)
+
+-----------------------
+Step 4: Switch back to **feature/rectangle-area** branch and continue working on the circle area feature
+
+#git checkout feature/rectangle-area
+
+#git stash list
+#git stash apply stash@{1}
+#git add geometrycalculator.py
+#git commit -m "Added the Circle feature"
+#git push origin feature/circle-area
 
 
 
