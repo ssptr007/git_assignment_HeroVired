@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/78d63353-6155-437a-b1d2-dfca0c373483)![image](https://github.com/user-attachments/assets/23aa3779-9530-4beb-8c91-c8119765edab)# git_assignment_HeroVired
+# git_assignment_HeroVired
 
 # Q.1: You are part of a development team working on a Python application called "CalculatorPlus." The application provides basic arithmetic operations, such as addition, subtraction, multiplication, and division. Your task is to implement a new feature that adds support for calculating the square root of a number.
 -----------------------
