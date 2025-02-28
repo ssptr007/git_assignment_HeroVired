@@ -178,6 +178,19 @@ Step 5: Switch back to **feature/rectangle-area** branch and continue working on
 ![image](https://github.com/user-attachments/assets/541d3848-126b-4aa3-b263-c8e7d41374a1)
 
 -----------------------
+Step 6: Share the pull request from feature/circle-area and feature/rectangle-area dev. We need to resolve the conflict and run the python script
+![image](https://github.com/user-attachments/assets/65c1c9c2-7944-4dcd-9ef7-3ea4577420e0)
+
+As the functionality is working fine. We can merge this into main branch
+![image](https://github.com/user-attachments/assets/9bbd3721-332b-4dc0-abba-110c7a18cdc6)
+![image](https://github.com/user-attachments/assets/d068a7fe-8926-4115-9ac0-7c07166adcc5)
+
+
+
+
+
+
+
 
 
 
