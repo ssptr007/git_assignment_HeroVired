@@ -44,13 +44,9 @@ Step 4: Create branch 'feature/sqrt' and merge the code with help of classmates
 #git checkout -b feature/sqrt
 ![image](https://github.com/user-attachments/assets/005329bd-f919-4a2b-acf8-4fe24bf7ad98)
 
-
-
-
-
-
-
-
+-----------------------
+Step 5: Add the divide by 0 code.
+![image](https://github.com/user-attachments/assets/b524b96b-dbd6-46ef-8e9c-b063acd831ca)
 
 
 
