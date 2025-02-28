@@ -161,7 +161,7 @@ Step 4: Switch back to **feature/circle-area** branch and continue working on th
 ![image](https://github.com/user-attachments/assets/f0198808-3ec3-4129-b305-ccd10ac0056b)
 
 -----------------------
-Step 4: Switch back to **feature/rectangle-area** branch and continue working on the circle area feature
+Step 5: Switch back to **feature/rectangle-area** branch and continue working on the circle area feature
 
 #git checkout feature/rectangle-area
 
@@ -174,6 +174,10 @@ Step 4: Switch back to **feature/rectangle-area** branch and continue working on
 #git commit -m "Added the Rectangle feature"
 
 #git push origin feature/rectangle-area
+
+![image](https://github.com/user-attachments/assets/541d3848-126b-4aa3-b263-c8e7d41374a1)
+
+-----------------------
 
 
 
