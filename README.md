@@ -65,7 +65,6 @@ Step 2: We need to initilize the lfs into the github repository
 #git lfs install
 
 ![image](https://github.com/user-attachments/assets/9f2f5d67-ee59-49b5-ba8b-9c736b72c91f)
-![image](https://github.com/user-attachments/assets/c3afeda1-7510-4fca-abd9-e886d9603abb)
 
 -----------------------
 Step 3: We need to Create binary file
