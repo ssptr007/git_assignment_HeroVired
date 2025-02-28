@@ -149,9 +149,13 @@ Step 4: Switch back to **feature/circle-area** branch and continue working on th
 #git checkout feature/circle-area
 
 #git stash list
+
 #git stash apply stash@{1}
+
 #git add geometrycalculator.py
+
 #git commit -m "Added the Circle feature"
+
 #git push origin feature/circle-area
 
 ![image](https://github.com/user-attachments/assets/f0198808-3ec3-4129-b305-ccd10ac0056b)
@@ -162,10 +166,14 @@ Step 4: Switch back to **feature/rectangle-area** branch and continue working on
 #git checkout feature/rectangle-area
 
 #git stash list
+
 #git stash apply stash@{1}
+
 #git add geometrycalculator.py
-#git commit -m "Added the Circle feature"
-#git push origin feature/circle-area
+
+#git commit -m "Added the Rectangle feature"
+
+#git push origin feature/rectangle-area
 
 
 
