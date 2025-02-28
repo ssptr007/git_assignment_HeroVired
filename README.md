@@ -76,6 +76,7 @@ Step 3: We need to Create binary file
 Step 4: We need to track the Binary file and it will create .gitattributes
 
 #git lfs track binary_file
+
 ![image](https://github.com/user-attachments/assets/00a4f569-6c7c-4dee-a108-06d710c0f7fd)
 
 
