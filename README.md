@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/23aa3779-9530-4beb-8c91-c8119765edab)# git_assignment_HeroVired
+![image](https://github.com/user-attachments/assets/78d63353-6155-437a-b1d2-dfca0c373483)![image](https://github.com/user-attachments/assets/23aa3779-9530-4beb-8c91-c8119765edab)# git_assignment_HeroVired
 
 # Q.1: You are part of a development team working on a Python application called "CalculatorPlus." The application provides basic arithmetic operations, such as addition, subtraction, multiplication, and division. Your task is to implement a new feature that adds support for calculating the square root of a number.
 -----------------------
@@ -26,6 +26,27 @@ Step 2: Create dev branch and add code into the branch.
 
 -----------------------
 Step 3: Merge dev branch to main branch and create tag Version 1.
+
+#git checkout main
+
+#git merge dev
+
+#git tag "Version1"
+
+#git push origin dev
+
+![image](https://github.com/user-attachments/assets/a86890f2-b5d7-4d15-b7ca-5e5a373efada)
+![image](https://github.com/user-attachments/assets/0eef2f70-e6d3-401e-80b2-23c8f531eee9)
+
+-----------------------
+Step 4: Create branch 'feature/sqrt' and merge the code with help of classmates
+
+#git checkout -b feature/sqrt
+![image](https://github.com/user-attachments/assets/005329bd-f919-4a2b-acf8-4fe24bf7ad98)
+
+
+
+
 
 
 
