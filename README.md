@@ -1,4 +1,4 @@
-# git_assignment_HeroVired
+![image](https://github.com/user-attachments/assets/23aa3779-9530-4beb-8c91-c8119765edab)# git_assignment_HeroVired
 
 # Q.1: You are part of a development team working on a Python application called "CalculatorPlus." The application provides basic arithmetic operations, such as addition, subtraction, multiplication, and division. Your task is to implement a new feature that adds support for calculating the square root of a number.
 -----------------------
@@ -7,9 +7,21 @@ Step 1: Create github repository name **git_assignment_HeroVired**
 
 -----------------------
 Step 2: Create dev branch and add code into the branch.
+
 #git checkout -b dev
+
 #git branch 
+
+# git add Calculator.py
 ![image](https://github.com/user-attachments/assets/fe6fc932-eefa-45a0-9ef2-1f5694a939a2)
+![image](https://github.com/user-attachments/assets/ae49cd1e-0d64-47e2-900e-583b4d991bb2)
+![image](https://github.com/user-attachments/assets/be121bc1-3f99-46bb-9548-1b9fd215b0e9)
+
+
+
+-----------------------
+Step 3: Merge dev branch to main branch and create tag Version 1.
+
 
 
 
