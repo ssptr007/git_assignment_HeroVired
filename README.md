@@ -1,6 +1,19 @@
 # git_assignment_HeroVired
 
 # Q.1: You are part of a development team working on a Python application called "CalculatorPlus." The application provides basic arithmetic operations, such as addition, subtraction, multiplication, and division. Your task is to implement a new feature that adds support for calculating the square root of a number.
+-----------------------
+Step 1: Create github repository name **git_assignment_HeroVired**
+![image](https://github.com/user-attachments/assets/f2271b71-1699-41f1-9251-97000ac41c92)
+
+-----------------------
+Step 2: Create dev branch and add code into the branch.
+#git checkout -b dev
+#git branch 
+![image](https://github.com/user-attachments/assets/fe6fc932-eefa-45a0-9ef2-1f5694a939a2)
+
+
+
+
 
 
 # Q2.For a project that deals with large binary files, integrate Git LFS (Large File Storage) to handle these files efficiently. Demonstrate how to add, commit, and push binary files to the repository, ensuring they are tracked by Git LFS correctly. Clone the repository on another machine to verify that the binary files are downloaded correctly.
@@ -18,6 +31,7 @@ Step 2: We need to initilize the lfs into the github repository
 #git lfs install
 
 ![image](https://github.com/user-attachments/assets/9f2f5d67-ee59-49b5-ba8b-9c736b72c91f)
+![image](https://github.com/user-attachments/assets/c3afeda1-7510-4fca-abd9-e886d9603abb)
 
 -----------------------
 Step 3: We need to Create binary file
